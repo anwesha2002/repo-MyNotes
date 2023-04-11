@@ -1,0 +1,28 @@
+.notesitem{
+  background-color: burlywood;
+  margin:15px;
+  padding: 10px;
+  height: 200px;
+  border-radius: 1rem;
+  white-space: pre-wrap;
+}
+.notesitem.new{
+  background-color: cadetblue;
+}
+textarea{
+  background-color: cadetblue;
+  resize: none;
+  border: none;
+}
+.header{
+  width: 100%;
+  padding: 10px;
+}
+.foot{
+  height: 100%;
+  padding: 10px;
+}
+/*textarea:focus{
+  border: none;
+}*/
+

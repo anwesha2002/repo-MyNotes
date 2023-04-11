@@ -1,0 +1,31 @@
+.screen{
+    height: 100%;
+    width: 100%;;
+}
+.notes{
+    background-color: white;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+.items {
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+   background-color: burlywood;
+   border-radius: 10px;
+   height: 200px;
+   width: 400px;
+}
+textarea{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    background-color:burlywood ;
+}
+textarea:focus{
+    outline: none;
+}
+.new.items{
+    margin-top : 30px;
+}
